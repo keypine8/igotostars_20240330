@@ -1,11 +1,12 @@
 # igotostars.org
+FREE APP    "Astrology you can SEE"
 See for yourself by direct personal experience if astrology works.
 
   This README.md file is under construction.
-
-the 20230312 files are the latest (hashockey players)
-
 for now,  see  "makeprod.sh"  and "cfns.sh"
+
+the 20240603 files are the latest 
+
 
 **EMCC NOTE**
 
